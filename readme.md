@@ -4,5 +4,3 @@ For this example we will use the California Housing Prices dataset available her
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 We then show hyperparameter optimization using GridSearchCV and Optuna.
-
-The next update will improve the demo by splitting the data into training, validation, and test sets.
