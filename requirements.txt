@@ -3,3 +3,4 @@ scikit-learn
 seaborn
 xgboost
 ipykernel
+optuna
